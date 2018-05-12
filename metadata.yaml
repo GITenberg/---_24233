@@ -1,0 +1,33 @@
+_repo: '---_24233'
+_version: 0.1.0
+alternative_title: Dong-Du-Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Qingxidaoren, active 17th century
+    aliases:
+    - Fang, Lu-hsien
+    - Fang, Lüxian
+    - 清溪道人
+    - Fang, Ju-hao
+    - Qingxindaoren
+    - Fang, Lü-hsien
+    - Fang, Luxian
+    gutenberg_agent_id: '26336'
+    url: http://www.gutenberg.org/2009/agents/26336
+description: ''
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24233'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+title: 東度記
+url: http://www.gutenberg.org/ebooks/24233
